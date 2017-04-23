@@ -1,2 +1,2 @@
-# plugin.game.blackjack
+# BLACK JACK GAME
 Ein simples Kartenspiel für XBMC
