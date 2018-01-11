@@ -2,7 +2,7 @@
 <addon id="plugin.game.blackjack"
        name="BlackJack"
        version="1.0.2"
-       provider-name="The[COLOR tan] EmuZONE [/COLOR]">
+       provider-name="[COLOR tan]EmuZONE[/COLOR]">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
   	<import addon="script.module.addon.common" optional="true" />
